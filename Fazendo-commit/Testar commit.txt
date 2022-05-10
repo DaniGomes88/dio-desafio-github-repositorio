@@ -1,0 +1,6 @@
+Testar procedimento de commit através do Guitbash.
+
+No Guitbash você precisará utilizar os seguintes comandos:
+	- git add . ou git add -a    //adiciona todos os aqrquivos ao controle de versão local;
+	- git commit -m "descrição ou comentário"     //cria um commit para o arquivo; flag -m permite adicionar um comentário;
+	- git push origin main       //envia todos os commits locais para o Github (nuvem).
